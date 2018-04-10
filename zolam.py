@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#Alphrazolam_Bot
+#Chucky_Bot
 import ALPHRAZOLAM
 from ALPHRAZOLAM.lib.curve.ttypes import *	
 from datetime import datetime	
